@@ -9,11 +9,6 @@
 ## 🏆 Achievements
 - **Hackathon Winner**: Won a hackathon at **NIT Raipur** with a project on **Mineral Analysis**. Developed a solution that tackled complex data analysis and provided actionable insights into mineral properties.
 
-## 🔭 What I'm Working On
-- 🌐 Building a responsive website with interactive features.
-- 🚀 Experimenting with **Flask** and **JavaScript** for a dynamic user experience.
-- 💡 Working on a personal project: A joke website with categories and interactive features.
-
 ## 📊 GitHub Stats
  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishavRaj625&show_icons=true&theme=dark)
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavRaj625&theme=dark)
@@ -33,19 +28,6 @@
   - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📚 Noteworthy Projects
-### 1. [Gaming Website](https://github.com/RishavRaj625/gaming-website)
-   - A gaming site that levels up automatically after each stage.
-   - Tech Stack: HTML, CSS, JavaScript, Flask
-  
-### 2. [Random Joke Website](https://github.com/RishavRaj625/joke-website)
-   - Features jokes in categories with punchline delays, emoji reactions, and a language selection feature.
-   - Tech Stack: HTML, CSS, JavaScript, Flask
-  
-### 3. [Hospital Management System](https://github.com/RishavRaj625/hospital-management)
-   - A full-featured hospital management system with an ER diagram and relational database model.
-   - Tech Stack: MySQL, SQL
 
 ## 🌍 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-raj-723413263/)
