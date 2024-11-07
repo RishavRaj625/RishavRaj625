@@ -15,9 +15,9 @@
 - 💡 Working on a personal project: A joke website with categories and interactive features.
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishavRaj625&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavRaj625&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavRaj625&layout=compact&theme=dark)
+# ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishavRaj625&show_icons=true&theme=dark)
+# ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RishavRaj625&theme=dark)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavRaj625&layout=compact&theme=dark)
 
 ## 🚀 Skills and Technologies
 - **Programming Languages**: 
