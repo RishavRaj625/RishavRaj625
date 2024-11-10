@@ -23,7 +23,6 @@ Currently deepening my skills in back-end development and exploring machine lear
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishavRaj625&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=RishavRaj625&theme=radical)
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishav-raj-723413263/)
