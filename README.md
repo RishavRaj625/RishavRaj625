@@ -169,7 +169,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishavraj625&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavraj625&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishavraj625&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html,css)
 
 <h2 align="center">🏆 Hackathon Journey</h2>
 
