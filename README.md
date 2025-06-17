@@ -26,7 +26,6 @@
 
 <div align="center">
   <h3>🌟 Other Skills</h3>
-  <img src="https://img.shields.io/badge/Public_Speaking-34A853?style=for-the-badge&logo=Google%20Podcasts&logoColor=white" alt="Dancing & Management Head">
   <img src="https://img.shields.io/badge/DSA-0082C9?style=for-the-badge&logo=Leetcode&logoColor=white" alt="DSA">
   <img src="https://img.shields.io/badge/Networking-FFA500?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking">
 </div>
