@@ -96,13 +96,15 @@
 <h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=I+code+to+learn%2C+explore%2C+and+help+others!+%F0%9F%96%A5%EF%B8%8F" alt="Fun Fact Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishavraj625&show_icons=true&theme=radical&rank_icon=github&hide_border=false" alt="GitHub Stats" />
 </p>
 
-<h2 align="center">🎯 Let's Build Something Amazing Together!</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishavraj625&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=Feel+free+to+connect+for+collabs%2C+projects%2C+or+ideas!" alt="Collaboration Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavraj625&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
 </p>
 
 ```cpp
