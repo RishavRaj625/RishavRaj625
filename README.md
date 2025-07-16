@@ -177,17 +177,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Winner+at+NIT+Raipur+Hackathon+%F0%9F%8F%86;Building+innovative+solutions;Turning+ideas+into+reality!" alt="Hackathon Journey" />
 </div>
 
-<h2 align="center">⚡ Fun Fact</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=I+dream+of+crafting+my+custom+OS;while+winning+hackathons+and;diving+into+hacker-level;coding+adventures!+%F0%9F%96%A5%EF%B8%8F%F0%9F%8F%86" alt="Fun Fact Typing SVG" />
-</p>
-
-<h2 align="center">🎯 Let's Build Something Amazing Together!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=500&lines=Feel+free+to+reach+out+for;collaborations%2C+hackathons%2C;open-source+projects%2C;or+technical+discussions!" alt="Collaboration Typing SVG" />
-</p>
 
 ---
 
