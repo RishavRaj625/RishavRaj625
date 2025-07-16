@@ -181,5 +181,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Let's+connect+and+innovate+together!+%F0%9F%9A%80" alt="Thanks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!; Let's+connect+and+innovate+together!+%F0%9F%9A%80" alt="Thanks" />
 </div>
